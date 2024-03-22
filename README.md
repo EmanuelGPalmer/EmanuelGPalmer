@@ -1,4 +1,4 @@
-# EmanuelGPalmer
+# Emanuel Gonzalez Palmer
 Bienvenidos a mi Página de Presentación
 
 Sobre mí
