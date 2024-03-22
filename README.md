@@ -30,36 +30,40 @@ Trabajo en equipo
 Proactividad
 Pasión por la tecnología
 
-### 📋 Programming Languages
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white"></a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <img alt=![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)>
-</p>
-<br>
+- ## Lenguajes
+    ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
+    ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
+    ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
+    ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
+    ![TypeScript Badge](https://img.shields.io/badge/TypeScript*-3178C6?logo=typescript&logoColor=fff&style=flat)
+    ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
+    ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
 
+- ## Frameworks
+    ![Django Badge](https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat)
+    ![DjangoREST Badge](https://img.shields.io/badge/Django-REST*-ff1709?&logo=django&logoColor=white&color=ff1709&labelColor=gray&style=flat) 
+    ![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?&logo=spring&logoColor=white&style=flat)
+    ![Node.js Badge](https://img.shields.io/badge/Node.js*-393?logo=nodedotjs&logoColor=fff&style=flat) 
+    ![React Badge](https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
+  
+- ## Databases     
+    ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white&style=flat)
+    ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white&style=flat)
+    ![Postgres Badge](https://img.shields.io/badge/Postgres-%23316192.svg?&logo=postgresql&logoColor=white&style=flat) 
+    ![SQLite Badge](https://img.shields.io/badge/SQLite-%2307405e.svg?&logo=sqlite&logoColor=white&style=flat)
 
+- ## Version Controls & CI/CD
+    ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+    ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+    ![Git Extensions Badge](https://img.shields.io/badge/Git%20Extensions-212121?logo=gitextensions&logoColor=fff&style=flat)
 
-
-### 🌐 Frontend Technologies
-
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a> 
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/></a>
-  <a href="https://tailwindcss.com" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/></a>
-</p>
-<br>
+- ## IDEs & Tools
+    ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+    ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
+    ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
+    ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
+    ![OpenVPN Badge](https://img.shields.io/badge/OpenVPN-EA7E20?logo=openvpn&logoColor=fff&style=flat)
+    ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
+    ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat)
